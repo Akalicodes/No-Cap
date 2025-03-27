@@ -23,7 +23,6 @@ NO CAP is a fast-paced decision game where players must quickly determine whethe
 - **Multiple Levels**: Progress through increasingly challenging levels
 - **Time Pressure**: Answer quickly to earn bonus points
 - **Score System**: Track your high score with local storage
-- **Responsive Design**: Works on both desktop and mobile devices
 - **Retro Pixel Art Style**: Nostalgic gaming aesthetic
 - **Life System**: Three lives to make mistakes
 - **Time Bonuses**: Extra points for quick answers
@@ -34,15 +33,12 @@ The game features a retro pixel art aesthetic with:
 - Pixelated font (Press Start 2P)
 - Retro-style buttons and containers
 - Colorful, playful design
-- Responsive layout that works on all devices
 
 ## 🛠️ Technical Details
 
 - Built with vanilla JavaScript
 - No external dependencies
 - Local storage for high score persistence
-- Mobile-friendly design
-- Touch-optimized controls
 
 ## 🎯 Scoring System
 
@@ -64,7 +60,6 @@ The game features a retro pixel art aesthetic with:
 - Firefox
 - Safari
 - Edge
-- Mobile browsers
 
 ## 🤝 Contributing
 
